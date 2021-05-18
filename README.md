@@ -3,7 +3,7 @@
     <img src="https://i.imgur.com/wXXC3mt.png" width="100"/>
   </a>
   <h3 align="center">n e o s t e t i c</h3>
-  <p align="center">
+  <p align="center"> 
     designer / developer / programmer
     <br>
     <br>
