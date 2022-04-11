@@ -8,7 +8,7 @@
 <h4 align="center">
   Owner of <a href="https://github.com/RobuxRoll">RobuxRoll (RollOrbit)</a><br>
   Developer of <a href="https://github.com/cookieclicker98">Cookieclicker98</a><br>
-  <a href="https://neostetic.github.io">Designer for hire</a>
+  <a href="https://neostetic.github.io">CSS Enthusiast</a><br>
 </h4>
 </p>
 
