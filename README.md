@@ -7,3 +7,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=neostetic&show_icons=true&locale=en" width="490" alt="neostetic" />
   </p>
 </a>
+<p align="center">
+<h4 align="center">
+  Owner of <a href="https://github.com/RobuxRoll">RobuxRoll (RollOrbit)</a><br>
+  Developer of <a href="https://github.com/cookieclicker98">Cookieclicker98</a><br>
+  <a href="https://neostetic.github.io">Designer for hire</a>
+</h4>
+</p>
