@@ -1,6 +1,6 @@
 [![image](https://user-images.githubusercontent.com/83291717/163282132-b5e0918d-5859-4bf8-bbdf-a002b919d605.png)](https://neostetic.github.io)
 
-[**Hi, my name is Jan Poláček (neostetic)**](https://github.com/neostetic). I like to designing and programming websites via **HTML**, **JS** and **CSS**. Recently I switched to **Node.js** for esier Frontend and Backend development. I'm also a **Java** programmer and like to call about myself that I'm a [**CSS Enthusiast**](https://neostetic.github.io).<br>
+[**Hi, my name is Jan Poláček (neostetic)**](https://github.com/neostetic). I like designing and programming websites via **HTML**, **JS** and **CSS**. Recently I switched to **Node.js** for esier Frontend and Backend development. I'm also a **Java** programmer and like to call about myself that I'm a [**CSS Enthusiast**](https://neostetic.github.io).<br>
 <br>
 Feel free to add me on **Discord (neostetic#5391)** or [Steam](https://steamcommunity.com/id/pixel08)
 
