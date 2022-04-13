@@ -5,7 +5,8 @@
 Feel free to add me on **Discord (neostetic#5391)** or [Steam](https://steamcommunity.com/id/pixel08)
 
 #### Find out what I do
- - Owner of <a href="https://github.com/RobuxRoll">RobuxRoll (RollOrbit)</a>
+ - Owner of [RobuxRoll (RollOrbit)](https://github.com/RobuxRoll)
+ - Developer of [neostetic.exe](neostetic.github.io/)
 
 #### Recent Projects
  - [🎲 RobuxRoll (RollOrbit)](https://robuxroll.herokuapp.com)
