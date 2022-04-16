@@ -13,7 +13,7 @@ Feel free to add me on **Discord (neostetic#5391)** or [Steam](https://steamcomm
  - [🎲 RobuxRoll (RollOrbit)](https://robuxroll.herokuapp.com)
  - [🌐 Tailwind UI Website [CZ]](https://neostetic.github.io/Tailwind-UI-Website)
  - [🧱 JustBunker](https://github.com/neostetic/project)
- - [🍪 Cookieclicker98](https://github.com/cookieclicker98)
+ - [🍪 Cookieclicker98](https://cookieclicker98.github.io)
 
 #### Socials
  - [![image](https://user-images.githubusercontent.com/83291717/163284041-76ccbc30-fc3e-4cd5-856f-839ab19551e8.png) Twitter](https://twitter.com/neostetic)
