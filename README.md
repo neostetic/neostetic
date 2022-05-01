@@ -8,13 +8,14 @@ Feel free to add me on **Discord (neostetic#5391)**
 #### Find out what I do
  - Owner of [RobuxRoll (RollOrbit)](https://github.com/RobuxRoll)
  - Developer of [neostetic.exe](https://neostetic.github.io/)
+ - Learning [Unity](https://unity.com)
  - IT Student of [SPSMB](https://github.com/SPSMB)
 
 #### Recent Projects
  - [🎲 RobuxRoll (RollOrbit)](https://jealous-enshrined-cilantro.glitch.me/)
  - [🌐 Tailwind UI Website [CZ]](https://neostetic.github.io/Tailwind-UI-Website)
  - [🧱 JustBunker](https://github.com/neostetic/project)
- - [📝 Machinegunfly](https://github.com/machinegunfly/machinegunfly.github.io)
+ - [📝 Machinegunfly](https://machinegunfly.github.io)
  - [🍪 Cookieclicker98](https://cookieclicker98.github.io)
 
 #### Skills
