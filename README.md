@@ -14,6 +14,7 @@ Feel free to add me on **Discord (neostetic#5391)**
  - [🎲 RobuxRoll (RollOrbit)](https://jealous-enshrined-cilantro.glitch.me/)
  - [🌐 Tailwind UI Website [CZ]](https://neostetic.github.io/Tailwind-UI-Website)
  - [🧱 JustBunker](https://github.com/neostetic/project)
+ - [📝 Machinegunfly](https://github.com/machinegunfly/machinegunfly.github.io)
  - [🍪 Cookieclicker98](https://cookieclicker98.github.io)
 
 #### Skills
