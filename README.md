@@ -12,6 +12,7 @@ Feel free to add me on **Discord (neostetic#5391)**
  - IT Student of [SPSMB](https://github.com/SPSMB)
 
 #### Recent Projects
+ - [🌐 Linux Shells Website [CZ]](https://neostetic.github.io/Linux-Shells/)
  - [📣 Translator](https://stripe-thread-feet.glitch.me) (limited access)
  - [🎲 RobuxRoll (RollOrbit)](https://robuxroll.github.io)
  - [🌐 Tailwind UI Website [CZ]](https://neostetic.github.io/Tailwind-UI-Website)
