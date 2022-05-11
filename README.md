@@ -13,15 +13,15 @@ Feel free to add me on **Discord (neostetic#5391)**
 
 #### Recent Projects
 
-<a href="https://zenith-airy-cabinet.glitch.me"><img src="https://user-images.githubusercontent.com/83291717/167913015-49bed89c-6d4e-4c9a-aaf0-605519097b43.png" width="32%"/></a>
-<a href="https://neostetic.github.io/Linux-Shells/"><img src="https://user-images.githubusercontent.com/83291717/167912428-78056d58-fae4-4329-bf39-9927c528347b.png" width="32%"/></a>
-<a href="https://stripe-thread-feet.glitch.me"><img src="https://user-images.githubusercontent.com/83291717/167912065-3e5b66df-6e99-467d-bd4f-427eb66dbf6e.png" width="32%"/></a>
-<a href="https://robuxroll.github.io"><img src="https://user-images.githubusercontent.com/83291717/167911612-96dcf33b-298b-4e26-803b-555f135effc6.png" width="32%"/></a>
-<a href="https://neostetic.github.io/Tailwind-UI-Website"><img src="https://user-images.githubusercontent.com/83291717/167911142-22226e69-435c-4d7b-8ad7-8cbb40a1561f.png" width="32%"/></a>
-<a href="https://pbp-holder.cz"><img src="https://user-images.githubusercontent.com/83291717/167910623-7af5d5d0-b238-4148-9ac9-97c6acc4873f.png" width="32%"/></a>
-<a href="https://machinegunfly.github.io"><img src="https://user-images.githubusercontent.com/83291717/167910319-be85f4ed-571c-4945-b6f4-6f953b1410f9.png" width="32%"/></a>
-<a href="https://cookieclicker98.github.io"><img src="https://user-images.githubusercontent.com/83291717/167909185-d912d4e7-3dba-4272-ae69-732efa35c84e.png" width="32%"/></a>
-<a href="https://github.com/neostetic?tab=repositories"><img src="https://user-images.githubusercontent.com/83291717/167913373-be9da714-2baa-4216-b9f5-87221776f683.png" width="32%"/></a>
+<a href="https://zenith-airy-cabinet.glitch.me"><img src="https://user-images.githubusercontent.com/83291717/167913015-49bed89c-6d4e-4c9a-aaf0-605519097b43.png" width="20%"/></a>
+<a href="https://neostetic.github.io/Linux-Shells/"><img src="https://user-images.githubusercontent.com/83291717/167912428-78056d58-fae4-4329-bf39-9927c528347b.png" width="20%"/></a>
+<a href="https://stripe-thread-feet.glitch.me"><img src="https://user-images.githubusercontent.com/83291717/167912065-3e5b66df-6e99-467d-bd4f-427eb66dbf6e.png" width="20%"/></a>
+<a href="https://robuxroll.github.io"><img src="https://user-images.githubusercontent.com/83291717/167911612-96dcf33b-298b-4e26-803b-555f135effc6.png" width="20%"/></a>
+<a href="https://neostetic.github.io/Tailwind-UI-Website"><img src="https://user-images.githubusercontent.com/83291717/167911142-22226e69-435c-4d7b-8ad7-8cbb40a1561f.png" width="20%"/></a>
+<a href="https://pbp-holder.cz"><img src="https://user-images.githubusercontent.com/83291717/167910623-7af5d5d0-b238-4148-9ac9-97c6acc4873f.png" width="20%"/></a>
+<a href="https://machinegunfly.github.io"><img src="https://user-images.githubusercontent.com/83291717/167910319-be85f4ed-571c-4945-b6f4-6f953b1410f9.png" width="20%"/></a>
+<a href="https://cookieclicker98.github.io"><img src="https://user-images.githubusercontent.com/83291717/167909185-d912d4e7-3dba-4272-ae69-732efa35c84e.png" width="20%"/></a>
+<a href="https://github.com/neostetic?tab=repositories"><img src="https://user-images.githubusercontent.com/83291717/167913373-be9da714-2baa-4216-b9f5-87221776f683.png" width="20%"/></a>
 
 <!--
  - [💬 Basic Chat Web/App](https://zenith-airy-cabinet.glitch.me)
