@@ -12,6 +12,7 @@ Feel free to add me on **Discord (neostetic#5391)**
  - IT Student of [SPSMB](https://github.com/SPSMB)
  
 #### Recent Projects
+ - [🏎️ OGO Racing](http://ogoracing.clanweb.eu)
  - [📝 Planrr (Notepad App)](https://neostetic.github.io/Planrr/)
  - [💬 Basic Chat Web/App](https://zenith-airy-cabinet.glitch.me)
  - [🌐 Linux Shells Website [CZ]](https://neostetic.github.io/Linux-Shells/)
