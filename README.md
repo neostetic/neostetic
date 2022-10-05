@@ -1,5 +1,9 @@
-[![image](https://user-images.githubusercontent.com/83291717/166122462-92e21d06-f83f-419c-9c95-d0e492637454.png)](https://neostetic.github.io)
+<img src="https://user-images.githubusercontent.com/83291717/194100137-8bee123f-69ff-446b-90ba-431766c1ac5b.png">
 
+
+
+<!--
+[![image](https://user-images.githubusercontent.com/83291717/166122462-92e21d06-f83f-419c-9c95-d0e492637454.png)](https://neostetic.github.io)
 
 [**Hi, my name is Jan Poláček (neostetic)**](https://github.com/neostetic). I like designing and programming websites via **HTML**, **JS** and **CSS**. Recently I switched to **Node.js** for easier Frontend and Backend development. I'm also a **Java** programmer and like to call about myself that I'm a [**CSS Enthusiast**](https://neostetic.github.io). I like to play on electric and acoustic guitar in my spare time.
 
