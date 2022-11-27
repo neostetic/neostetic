@@ -11,6 +11,7 @@ Feel free to add me on **Discord (neostetic#5391)**
  - IT Student of [SPSMB](https://github.com/SPSMB)
  
 #### Recent Projects 
+ - [🚙 Python Untitled Skater Game](https://github.com/neostetic/python-skater-game)
  - [🏫 SPSMB - School Design Test](https://neostetic.github.io/School-Website-Test/)
  - [🚗 Autodeformace](http://autodeformace.cz)
  - [🏎️ OGO Racing](http://ogoracing.clanweb.eu)
