@@ -11,6 +11,7 @@ Feel free to add me on **Discord (neostetic#5391)**
  - IT Student of [SPSMB](https://github.com/SPSMB)
  
 #### Recent Projects 
+ - [📎 Custom Programming OS (GUI)](https://neostetic.github.io/custom-programming-os/)
  - [🚀 Java Space Arcade Game](https://github.com/neostetic/java-arcade-game)
  - [🚙 Python Untitled Skater Game](https://github.com/neostetic/python-skater-game)
  - [🏫 SPSMB - School Design Test](https://neostetic.github.io/School-Website-Test/)
