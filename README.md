@@ -11,7 +11,7 @@ Feel free to add me on **Discord (neostetic#5391)**
  - IT Student of [SPSMB](https://github.com/SPSMB)
  
 #### Recent Projects 
- - [🖱️ PixelbiteCSS (Frontend CSS and JS framework)](https://neostetic.github.io/Pixelbite-CSS/)
+ - [🖱️ PixelbiteCSS (Frontend CSS and JS framework)](https://Pixelbite-CSS.github.io/)
  - [📎 Custom Programming OS (GUI)](https://neostetic.github.io/custom-programming-os/)
  - [🚀 Java Space Arcade Game](https://github.com/neostetic/java-arcade-game)
  - [🚙 Python Untitled Skater Game](https://github.com/neostetic/python-skater-game)
