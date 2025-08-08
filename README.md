@@ -8,10 +8,11 @@ Feel free to add me on **Discord (neostetic#5391)**
 
 #### Find out what I do
  - Main source of income: Graphic Designer
+ - Music producer
  - Owner of [RobuxRoll (RollOrbit)](https://github.com/RobuxRoll)
  - Developer of [Pixelbite CSS](https://github.com/Pixelbite-CSS)
  - Learning [Unity](https://unity.com)
- - IT Student of [SPSMB](https://github.com/SPSMB)
+ - Succesfull IT Student of [SPSMB](https://github.com/SPSMB)
  
 #### Recent Projects 
  - 🫟 PyGraphics (WIP, Private)
