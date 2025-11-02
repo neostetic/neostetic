@@ -1,10 +1,17 @@
-[![li-banner](https://github.com/user-attachments/assets/386094f5-331c-4291-8e37-3ce7c5280693)](https://neostetic.github.io)
+<p align="center">
+  <img src="https://i.giphy.com/3ndAvMC5LFPNMCzq7m.webp">
+</p>
+<img width="100%" src="https://github.com/user-attachments/assets/0c2eebba-025d-422a-9dde-37909ceada87" />
+<br><br><br>
 
+<!-- [![li-banner](https://github.com/user-attachments/assets/386094f5-331c-4291-8e37-3ce7c5280693)](https://neostetic.github.io) -->
 <!-- [![image](https://user-images.githubusercontent.com/83291717/166122462-92e21d06-f83f-419c-9c95-d0e492637454.png)](https://neostetic.github.io) -->
 
-[**Hi, my name is Jan Poláček (neostetic)**](https://github.com/neostetic). I like designing and programming websites via **HTML**, **JS** and **CSS**. Recently I switched to **Node.js** for easier Frontend and Backend development. I'm also a **Java** programmer and like to call about myself that I'm a [**CSS Enthusiast**](https://neostetic.github.io). I like to play on electric and acoustic guitar in my spare time.
+[**Hi, my name is Jan Poláček (neostetic)**](https://github.com/neostetic).
 
-Feel free to add me on **Discord (neostetic#5391)**
+I'm a creative thinker who loves finding the simplest, most efficient ways to get things done. I wear multiple hats: **Graphics Designer**, **Full-stack Developer**, and **Musician**. I enjoy blending creativity with logic, whether it's crafting a stunning visual, building a seamless web experience, or composing music.
+
+Feel free to connect, collaborate, or just say hi—I’m always open to new ideas and interesting projects!
 
 #### Find out what I do
  - Main source of income: Graphic Designer
@@ -57,10 +64,11 @@ Feel free to add me on **Discord (neostetic#5391)**
 #### Contact & Socials
  - [📧 Email](mailto:gg.polacek@gmail.com)
  - [🐦 Twitter](https://twitter.com/neostetic)
- - [📷 Instagram](https://www.instagram.com/honzikalejinej)
+ - [📷 Instagram](https://www.instagram.com/akloholyk)
  - [🎮 Steam](https://steamcommunity.com/id/pixel08)
- 
- <p align="center"><img src="./assets/never-grow-up.webp"></p>
+<p align="center">
+  <img src="./assets/never-grow-up.webp">
+</p>
 
 <!--
   <a href="https://neostetic.github.io">
