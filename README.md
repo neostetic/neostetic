@@ -26,7 +26,7 @@ Feel free to connect, collaborate, or just say hi—I’m always open to new ide
 #### Recent Projects 
 
  - [📁 MD2F (Markdown2file)](https://MD2F.github.io)
- - 🫟 PyGraphics (WIP, Work-Private)
+ - 🫟 PyGraphics (work-private)
  - [🚀 EvadeAsteroid (JAVA)](https://github.com/neostetic/EvadeAsteroid)
  - [🖱️ PixelbiteCSS (Frontend CSS and JS framework)](https://Pixelbite-CSS.github.io/)
  - [📎 Custom Programming OS (GUI)](https://neostetic.github.io/custom-programming-os/)
