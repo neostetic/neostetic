@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://i.giphy.com/3ndAvMC5LFPNMCzq7m.webp">
+  <img src="https://i.giphy.com/3ndAvMC5LFPNMCzq7m.webp"><br>
+  <img width="384" height="130" alt="obrazek" src="https://github.com/user-attachments/assets/c77dce57-2b68-47f4-80cf-4d04faa2990d" />
 </p>
-<img width="100%" src="https://github.com/user-attachments/assets/0c2eebba-025d-422a-9dde-37909ceada87" />
-<br><br><br>
+<br><br>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- [![li-banner](https://github.com/user-attachments/assets/386094f5-331c-4291-8e37-3ce7c5280693)](https://neostetic.github.io) -->
 <!-- [![image](https://user-images.githubusercontent.com/83291717/166122462-92e21d06-f83f-419c-9c95-d0e492637454.png)](https://neostetic.github.io) -->
@@ -13,7 +15,7 @@ I'm a creative thinker who loves finding the simplest, most efficient ways to ge
 
 Feel free to connect, collaborate, or just say hi—I’m always open to new ideas and interesting projects!
 
-#### Find out what I do
+#### What I do
  - Main source of income: Graphic Designer
  - Music producer
  - Owner of [RobuxRoll (RollOrbit)](https://github.com/RobuxRoll)
@@ -24,17 +26,17 @@ Feel free to connect, collaborate, or just say hi—I’m always open to new ide
 #### Recent Projects 
 
  - [📁 MD2F (Markdown2file)](https://MD2F.github.io)
- - 🫟 PyGraphics (WIP, Private)
+ - 🫟 PyGraphics (WIP, Work-Private)
  - [🚀 EvadeAsteroid (JAVA)](https://github.com/neostetic/EvadeAsteroid)
  - [🖱️ PixelbiteCSS (Frontend CSS and JS framework)](https://Pixelbite-CSS.github.io/)
  - [📎 Custom Programming OS (GUI)](https://neostetic.github.io/custom-programming-os/)
- - [🚀 Java Space Arcade Game](https://github.com/neostetic/java-arcade-game) (outdated)
+ - [🚀 Java Space Arcade Game](https://github.com/neostetic/java-arcade-game) (revisited in [🚀 EvadeAsteroid (JAVA)](https://github.com/neostetic/EvadeAsteroid))
  - [🚙 Python Untitled Skater Game](https://github.com/neostetic/python-skater-game)
  - [🏫 SPSMB - School Design Test](https://neostetic.github.io/School-Website-Test/)
  - [🚗 Autodeformace](http://autodeformace.cz)
  - [🏎️ OGO Racing](http://ogoracing.clanweb.eu)
  - [📝 Planrr (Notepad App)](https://neostetic.github.io/Planrr/)
- - [💬 Basic Chat Web/App](https://zenith-airy-cabinet.glitch.me)
+ - [💬 Basic Chat Web/App](https://zenith-airy-cabinet.glitch.me) (outdated)
  - [🌐 Linux Shells Website [CZ]](https://neostetic.github.io/Linux-Shells/)
  - [📣 Translator](https://stripe-thread-feet.glitch.me) (outdated)
  - [🎲 RobuxRoll (RollOrbit)](https://robuxroll.github.io) (outdated)
@@ -42,23 +44,27 @@ Feel free to connect, collaborate, or just say hi—I’m always open to new ide
  - [🧱 JustBunker](https://github.com/neostetic/project)
  - [🏍️ PBP-Holder](https://pbp-holder.cz) (outdated)
  - [📝 Machinegunfly](https://machinegunfly.github.io)
- - [🍪 Cookieclicker98](https://cookieclicker98.github.io) (first game)
+ - [🍪 Cookieclicker98](https://cookieclicker98.github.io) (first project)
 
 #### Skills
-![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![image](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
 #### Contact & Socials
